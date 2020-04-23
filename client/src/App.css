@@ -1,0 +1,12 @@
+body {
+    background-image: url("https://www.jakpost.travel/wimages/large/212-2125940_material-design-wallpaper-material-design-background-psd.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: 100vw;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;     
+  }
+  main {
+    flex: 1 0 auto;
+  }
